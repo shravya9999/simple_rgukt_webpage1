@@ -1,0 +1,30 @@
+.body {
+  background-color: rgb(239, 239, 247);
+}
+
+.com1 {
+  color: rgb(184, 97, 111);
+}
+
+.para {
+  border: 2px solid green;
+  background-color: rgb(130, 130, 182);
+  color: rgb(66, 204, 169);
+  font-family: courier;
+}
+
+.h1 {
+  font-size: 20px;
+  color: rgb(31, 134, 31);
+  text-align: center;
+}
+
+.tble {
+  color: rgb(248, 152, 168);
+  border-color: red;
+  border-style: dotted;
+}
+
+.list {
+  list-style-type: square;
+}
